@@ -22,7 +22,7 @@ This is a simple HTML5 website for **drBILAL Accountech Academy**, an institutio
    ```powershell
    git clone <https://github.com/drBILAL-mj/index.html.git>
    ```
-   Or download the ZIP and extract it.
+
 
 2. **Open the Website**
    - Open `index.html` in your web browser.
